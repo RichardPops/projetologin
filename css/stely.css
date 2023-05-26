@@ -1,9 +1,6 @@
 body {
-    background-image: url(../imagens/netflix.jpg);
+    background-image: url(imagens/netflix.jpg);
     background-repeat: no-repeat;
-    
-    
-
 }
 
 header {
